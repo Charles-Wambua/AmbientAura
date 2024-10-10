@@ -1,4 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎧 SonicScape (or your chosen name)
+
+SonicScape is a customizable ambient sound mixer built with Next.js. The app allows users to mix different soothing sounds like rain, ocean waves, and more, with adjustable volume sliders for each sound. Perfect for relaxation, focus, or creating a personalized sound environment.
+
+## ✨ Features
+
+- 🎶 **Multiple Ambient Sounds**: Mix and match sounds such as rain, ocean waves, and more.
+- 🎚️ **Customizable Volume Controls**: Adjust the volume of each sound individually to create your perfect mix.
+- 💾 **Save Your Preferences**: Save sound settings for future sessions.
+- 🎨 **Beautiful UI**: Sleek and modern design with interactive animations and a visually pleasing background.
+
+## 🛠️ Tech Stack
+
+- **Frontend**: [Next.js](https://nextjs.org/) (React Framework), Styled Components for styling.
+- **Styling**: Styled Components with custom animations and CSS transitions.
+- **Sound Management**: HTML5 `<audio>` elements for sound playback.
+  
+## 🚀 Getting Started
+
+Follow the steps below to get the project running on your local machine.
+
+### Prerequisites
+
+- Node.js (v16+)
+- npm or yarn package manager
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/SonicScape.git
+   cd SonicScape
+
 
 ## Getting Started
 
